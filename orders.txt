@@ -1,0 +1,22 @@
+Order ID: 150
+ID: 1234, Name: shoe, Price: 1200.0, Rating: 4.5
+Total Amount: 1200.0
+
+Order ID: 150
+ID: 1234, Name: shoe, Price: 1200.0, Rating: 4.5
+Total Amount: 1200.0
+
+Order ID: 2512
+ID: 1234, Name: puma shoe, Price: 1200.0, Rating: 4.3
+ID: 3452, Name: poco, Price: 15000.0, Rating: 4.2
+Total Amount: 16200.0
+
+Order ID: 2512
+ID: 1234, Name: puma shoe, Price: 1200.0, Rating: 4.3
+ID: 3452, Name: poco, Price: 15000.0, Rating: 4.2
+Total Amount: 16200.0
+
+Order ID: 7403
+ID: 123, Name: exe, Price: 1234.0, Rating: 23.0
+Total Amount: 1234.0
+
